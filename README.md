@@ -22,7 +22,7 @@ Building AI systems that solve real-world problems through research, engineering
 ## 🚀 About Me
 
 - 🧠 Data Scientist with a background spanning **ML, AI Engineering, and Software Development**
-- 💼 Incoming **Data Scientist at Microsoft** (starting August 2026)
+- 💼 Incoming **Data Scientist at Microsoft** (starting December 2026)
 - 🎨 Former **Data Science Intern at Adobe, San Francisco**
 - 🔬 Research Intern at **DFKI** (German Research Center for Artificial Intelligence)
 - 🛰️ Former Intern at **NESAC (ISRO)** — satellite data & remote sensing
