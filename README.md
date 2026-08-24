@@ -1,4 +1,8 @@
 <!-- ========================= HERO ========================= -->
+<p align="center">
+  <img src="assets/animated-portrait.svg" width="300" alt="Divyanshu Mishra animated dot-matrix portrait">
+</p>
+
 <h1 align="center">Hi 👋, I'm Divyanshu Mishra</h1>
 
 <h3 align="center">Data Scientist • AI/ML Engineer • Open Source Contributor</h3>
