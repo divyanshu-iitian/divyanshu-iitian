@@ -12,7 +12,7 @@ Building AI systems that solve real-world problems through research, engineering
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3BA4F7&center=true&vCenter=true&width=900&lines=Incoming+Data+Scientist+%40+Microsoft;Ex-Adobe+%7C+Ex-DFKI+%7C+Ex-ISRO+(NESAC);Building+SearchForge;Computer+Vision+%7C+LLMs+%7C+AI+Agents;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3BA4F7&center=true&vCenter=true&width=900;Ex-Adobe+%7C+Ex-DFKI+%7C+Ex-ISRO+(NESAC);Building+SearchForge;Computer+Vision+%7C+LLMs+%7C+AI+Agents;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
